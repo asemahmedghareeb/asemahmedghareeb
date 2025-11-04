@@ -3,18 +3,18 @@
 </h1>
 
 <p>
-  [cite_start]I'm a <strong>Backend Developer</strong> from Egypt [cite: 2, 6] [cite_start]specializing in Node.js and its ecosystem[cite: 10]. 
-  [cite_start]I am passionate about building scalable, cutting-edge backend solutions and optimizing performance[cite: 10, 11].
+  I'm a <strong>Backend Developer</strong> from Egypt specializing in Node.js and its ecosystem. 
+  I am passionate about building scalable, cutting-edge backend solutions and optimizing performance.
 </p>
 
 ---
 
 ### 💬 About Me
 
-* [cite_start]Backend Developer skilled in **Node.js, Express.js, and Nest.js**[cite: 10].
-* [cite_start]Experienced in building **RESTful APIs**, managing databases, and optimizing backend performance[cite: 10].
-* [cite_start]Passionate about problem-solving, scalability, and performance optimization[cite: 10].
-* [cite_start]Seeking an opportunity to contribute to a dynamic team and build cutting-edge backend solutions[cite: 11].
+* Backend Developer skilled in **Node.js, Express.js, and Nest.js**.
+* Experienced in building **RESTful APIs**, managing databases, and optimizing backend performance.
+* Passionate about problem-solving, scalability, and performance optimization.
+* Seeking an opportunity to contribute to a dynamic team and build cutting-edge backend solutions.
 
 ---
 
@@ -80,56 +80,58 @@
 <table>
   <tr>
     <td width="70%">
-      <h3>1. [cite_start]Social Media Microservices [cite: 16]</h3>
+      <h3>1. Social Media Microservices</h3>
       <p>
-        A scalable social media project built with a microservice architecture. [cite_start]It consists of 5 microservices that interact using RabbitMQ and an Express proxy server[cite: 18].
+        A scalable social media project built with a microservice architecture. It consists of 5 microservices that interact using RabbitMQ and an Express proxy server.
       </p>
       <ul>
-        [cite_start]<li>Implemented secure authentication using JWT[cite: 19].</li>
-        [cite_start]<li>Added rate limiting for security against brute-force attacks[cite: 20].</li>
-        [cite_start]<li>Integrated logging functionality for easier error debugging[cite: 20].</li>
+        <li>Implemented secure authentication using JWT.</li>
+        <li>Added rate limiting for security against brute-force attacks.</li>
+        <li>Integrated logging functionality for easier error debugging.</li>
       </ul>
       <p><strong>Tech:</strong> Microservices, RabbitMQ, Express.js, JWT</p>
       </td>
   </tr>
   <tr>
     <td width="70%">
-      <h3>2. [cite_start]Threads App API [cite: 21]</h3>
+      <h3>2. Threads App API</h3>
       <p>
-        [cite_start]A backend clone of the Threads app API with real-time chat capabilities using WebSockets[cite: 22].
+        A backend clone of the Threads app API with real-time chat capabilities using WebSockets.
       </p>
       <ul>
-        [cite_start]<li>Features include creating posts, liking/commenting, following users, and freezing accounts[cite: 22].</li>
-        [cite_start]<li>Real-time chat supports sending both text and images[cite: 22, 23].</li>
+        <li>Features include creating posts, liking/commenting, following users, and freezing accounts.</li>
+        <li>Real-time chat supports sending both text and images.</li>
       </ul>
-      [cite_start]<p><strong>Tech:</strong> NestJs, Postgres, WebSockets [cite: 22]</p>
+      <p><strong>Tech:</strong> NestJs, Postgres, WebSockets</p>
       </td>
   </tr>
     <tr>
-    <td width="70%">
-      <h3>3. [cite_start]E-commerce API [cite: 24]</h3>
-      <p>
-        [cite_start]A scalable E-commerce backend built with Express.js and MongoDB[cite: 25].
+    <td width="7Such as:
+* [cite_start: 1] User is a software developer with a focus on the NestJS framework and GraphQL. [cite_end: 1]
+* [cite_start: 2] The user is building an application that manages flights, bookings, and airports. [cite_end: 2]
+* [cite_start: 3] The user has a specific interest in implementing advanced authentication patterns such as refresh tokens and OTP (One-Time Password) verification within their application. [cite_end: 3]
+    <p>
+        A scalable E-commerce backend built with Express.js and MongoDB.
       </p>
       <ul>
-        [cite_start]<li>Integrated Stripe for payments and Redis for caching and performance enhancement[cite: 25].</li>
-        [cite_start]<li>Features include JWT authentication, role-based authorization, shopping cart, file uploading, order analytics, and shopping coupons[cite: 25].</li>
+        <li>Integrated Stripe for payments and Redis for caching and performance enhancement.</li>
+        <li>Features include JWT authentication, role-based authorization, shopping cart, file uploading, order analytics, and shopping coupons.</li>
       </ul>
-      [cite_start]<p><strong>Tech:</strong> ExpressJs, MongoDB, TypeScript, Redis, JWT, Stripe [cite: 25]</p>
+      <p><strong>Tech:</strong> ExpressJs, MongoDB, TypeScript, Redis, JWT, Stripe</p>
       </td>
   </tr>
   <tr>
     <td width="70%">
-      <h3>4. [cite_start]Complete Authentication System [cite: 26]</h3>
+      <h3>4. Complete Authentication System</h3>
       <p>
-        [cite_start]A complete and robust authentication system[cite: 27].
+        A complete and robust authentication system.
       </p>
       <ul>
-        [cite_start]<li>Built with Express.js and JWT[cite: 27].</li>
-        [cite_start]<li>Implements a full Google OAuth authentication flow with access and refresh tokens[cite: 28].</li>
-        [cite_start]<li>Includes features like email verification and forgot/reset password via email[cite: 27].</li>
+        <li>Built with Express.js and JWT.</li>
+        <li>Implements a full Google OAuth authentication flow with access and refresh tokens.</li>
+        <li>Includes features like email verification and forgot/reset password via email.</li>
       </ul>
-      [cite_start]<p><strong>Tech:</strong> ExpressJs, JWT, OAuth [cite: 27]</p>
+      <p><strong>Tech:</strong> ExpressJs, JWT, OAuth</p>
       </td>
   </tr>
 </table>
