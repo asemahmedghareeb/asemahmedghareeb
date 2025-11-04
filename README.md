@@ -1,8 +1,10 @@
-<h1>
-  Hi there, I'm Asem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+<p align="center">
+  <a href="https://github.com/asemahmedghareeb">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Asem+Ahmed+👋;I'm+a+Backend+Developer;Specializing+in+Node.js+|+Nest.js" alt="Typing SVG" />
+  </a>
+</p>
 
-<p>
+<p align="center">
   I'm a <strong>Backend Developer</strong> from Egypt specializing in Node.js and its ecosystem. 
   I am passionate about building scalable, cutting-edge backend solutions and optimizing performance.
 </p>
@@ -20,7 +22,7 @@
 
 ### 🔗 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/asem-ahmed-245a4b205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;
@@ -80,7 +82,7 @@
 <table>
   <tr>
     <td width="70%">
-      <h3>1. Social Media Microservices</h3>
+      <h3>1. social media microservices project</h3>
       <p>
         A scalable social media project built with a microservice architecture. It consists of 5 microservices that interact using RabbitMQ and an Express proxy server.
       </p>
@@ -106,12 +108,10 @@
       </td>
   </tr>
     <tr>
-    <td width="7Such as:
-* [cite_start: 1] User is a software developer with a focus on the NestJS framework and GraphQL. [cite_end: 1]
-* [cite_start: 2] The user is building an application that manages flights, bookings, and airports. [cite_end: 2]
-* [cite_start: 3] The user has a specific interest in implementing advanced authentication patterns such as refresh tokens and OTP (One-Time Password) verification within their application. [cite_end: 3]
-    <p>
-        A scalable E-commerce backend built with Express.js and MongoDB.
+    <td width="70%">
+      <h3>3. E-commerce API</h3>
+      <p>
+        A scalable E-commerce backend built with Express.js, MongoDB, and TypeScript.
       </p>
       <ul>
         <li>Integrated Stripe for payments and Redis for caching and performance enhancement.</li>
@@ -122,16 +122,29 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>4. Complete Authentication System</h3>
+      <h3>4. Complete authentication system</h3>
       <p>
-        A complete and robust authentication system.
+        A complete and robust authentication system built with Express.js and JWT.
       </p>
       <ul>
-        <li>Built with Express.js and JWT.</li>
         <li>Implements a full Google OAuth authentication flow with access and refresh tokens.</li>
         <li>Includes features like email verification and forgot/reset password via email.</li>
       </ul>
       <p><strong>Tech:</strong> ExpressJs, JWT, OAuth</p>
+      </td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <h3>5. Incubator Reservation System (Graduation Project)</h3>
+      <p>
+        Developed a babies Incubator system that provides a REST API for incubators.
+      </p>
+      <ul>
+        <li>Built a search function to find the nearest hospital with suitable incubators.</li>
+        <li>Created a Reservation Management system to associate reservations with specific incubators and time slots.</li>
+        <li>Managed user access and permissions and handled authentication using JWT.</li>
+      </ul>
+      <p><strong>Tech:</strong> REST APIs, JWT</p>
       </td>
   </tr>
 </table>
