@@ -80,6 +80,21 @@
 ### 🚀 My Projects
 
 <table>
+    <tr>
+    <td width="70%">
+      <h3>1.Airport Management System</h3>
+      <p>
+       Developed a robust backend system using NestJS and GraphQL to manage airport operations including flight scheduling, booking management, and staff administration
+      </p>
+      <ul>
+        
+  <li>Implemented secure authentication with JWT and role-based access control (RBAC) for different user types (admin, staff, passengers) and added OTP verification.</li>
+
+<li>Integrated real-time push notifications and email notifications for booking confirmations and flight updates.</li>
+      </ul>
+      <p><strong>Tech:</strong> GraphQl, Nestjs, Postgress, TypeOrm, JWT</p>
+      </td>
+  </tr>
   <tr>
     <td width="70%">
       <h3>1. social media microservices project</h3>
