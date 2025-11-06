@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>1. social media microservices project</h3>
+      <h3>2. social media microservices project</h3>
       <p>
         A scalable social media project built with a microservice architecture. It consists of 5 microservices that interact using RabbitMQ and an Express proxy server.
       </p>
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>2. Threads App API</h3>
+      <h3>3. Threads App API</h3>
       <p>
         A backend clone of the Threads app API with real-time chat capabilities using WebSockets.
       </p>
@@ -124,7 +124,7 @@
   </tr>
     <tr>
     <td width="70%">
-      <h3>3. E-commerce API</h3>
+      <h3>4. E-commerce API</h3>
       <p>
         A scalable E-commerce backend built with Express.js, MongoDB, and TypeScript.
       </p>
@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>4. Complete authentication system</h3>
+      <h3>5. Complete authentication system</h3>
       <p>
         A complete and robust authentication system built with Express.js and JWT.
       </p>
@@ -150,7 +150,7 @@
   </tr>
   <tr>
     <td width="70%">
-      <h3>5. Incubator Reservation System (Graduation Project)</h3>
+      <h3>6. Incubator Reservation System (Graduation Project)</h3>
       <p>
         Developed a babies Incubator system that provides a REST API for incubators.
       </p>
