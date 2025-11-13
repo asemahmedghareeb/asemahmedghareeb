@@ -38,14 +38,6 @@
 
 ### 💻 My Tech Stack
 
-#### 🧠 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge" alt="Data Structures">
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge" alt="Algorithms">
-  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge" alt="OOP">
-  <img src="https://img.shields.io/badge/SOLID_Principles-007ACC?style=for-the-badge" alt="SOLID">
-  <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge" alt="Problem Solving">
-</p>
 
 #### ⚙️ Backend Technologies
 <p>
@@ -79,6 +71,16 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
+
+#### 🧠 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge" alt="Data Structures">
+  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge" alt="Algorithms">
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/SOLID_Principles-007ACC?style=for-the-badge" alt="SOLID">
+  <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge" alt="Problem Solving">
+</p>
+
 
 #### 🧰 Tools & Version Control
 <p>
