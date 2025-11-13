@@ -8,6 +8,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write  # <-- ADD THIS BLOCK
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
