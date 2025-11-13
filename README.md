@@ -197,5 +197,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asemahmedghareeb/asemahmedghareeb/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+<img src="https://raw.githubusercontent.com/asemahmedghareeb/asemahmedghareeb/output/github-snake-dark.svg" alt="github contribution grid snake animation" />
 </p>
