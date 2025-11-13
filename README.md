@@ -179,9 +179,23 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🏆 GitHub Achievements & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asemahmedghareeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemahmedghareeb&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=asemahmedghareeb&color=blueviolet&style=flat-square" alt="Profile Visitor Count" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Opn-Next/github-profile-achievements">
+    <img src="https://github-profile-achievements.vercel.app/?user=asemahmedghareeb&theme=dracula&column=6" alt="GitHub Achievements" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asemahmedghareeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemahmedghareeb&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asemahmedghareeb/asemahmedghareeb/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
