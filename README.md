@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/asemahmedghareeb">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Asem+Ahmed+👋;I'm+a+Backend+Developer;Specializing+in+Node.js+|+Nest.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Asem+👋;I'm+a+Backend+Developer;Specializing+in+Node.js+|+Nest.js" alt="Typing SVG" />
   </a>
 </p>
 
