@@ -14,7 +14,7 @@
 ### 💬 About Me
 
 * Backend Developer skilled in **Node.js, Express.js, and Nest.js**.
-* Experienced in building **RESTful APIs**, managing databases, and optimizing backend performance.
+* Experienced in building **Graphql and** **RESTful APIs**, managing databases, and optimizing backend performance.
 * Passionate about problem-solving, scalability, and performance optimization.
 * Seeking an opportunity to contribute to a dynamic team and build cutting-edge backend solutions.
 
