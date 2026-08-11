@@ -12,8 +12,14 @@ jobs:
       contents: write  # <-- ADD THIS BLOCK
     runs-on: ubuntu-latest
     steps:
+      - name: Log Process Start
+        run: echo "Starting GitHub Snake animation generation process for user asemahmedghareeb..."
+
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Log Repository Checkout Status
+        run: echo "Repository checked out successfully."
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -25,7 +31,12 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=orange&color_dots=#3C4048
             dist/github-snake-dark.svg?color_snake=orange&color_dots=#292D33&theme=dark
-            
+
+      - name: Log Output Directory Contents
+        run: |
+          echo "Snake SVGs generated successfully. Inspecting output directory ('dist'):"
+          ls -la dist/
+
       - name: Push to 'output' Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -33,3 +44,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Log Process Completion
+        run: echo "Snake generation process completed and pushed to 'output' branch successfully."
